@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "ce819de8-bd98-4fc8-8b05-66cb994edf92",
+            "Value": {
+                "id": "50b721b8-9320-4bdc-b366-98205c1b3f47",
+                "resourcePath": "objects\\objHiddenWalls\\objHiddenWalls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d0945a11-ab93-438d-a56d-f16b43cbdc8c",
             "Value": {
                 "id": "67cb9389-99af-4db6-82e7-195e76aa71ac",
