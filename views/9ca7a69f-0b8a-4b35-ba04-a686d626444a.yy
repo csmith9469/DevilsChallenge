@@ -10,7 +10,8 @@
         "d290afba-c43d-40c8-b7ef-2e940c0b2ceb",
         "1830904a-1117-4437-b16d-19a65e2e27c7",
         "7e5ce301-00bd-46b2-befd-3339397bf786",
-        "fb43ef79-7e71-4bea-8cc1-fbab196c100a"
+        "fb43ef79-7e71-4bea-8cc1-fbab196c100a",
+        "d66e2d57-47fd-450d-b446-2cd094127c97"
     ],
     "filterType": "GMObject",
     "folderName": "LevelObjects",
